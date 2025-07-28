@@ -1,5 +1,6 @@
 # Image-Resizer-App
-Simple and easy to use Image Resizer Application
+
+✨Simple and easy to use Image Resizer Application✨
 
 ## 🔧 How the Image Resizer App Works
 
